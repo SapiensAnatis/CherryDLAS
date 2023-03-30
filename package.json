@@ -1,0 +1,20 @@
+{
+  "name": "cherrydlas",
+  "version": "1.0.0",
+  "description": "Cherry-Dragalia Lost Asset Server",
+  "main": "cherrydlas.js",
+  "type": "module",
+  "scripts": {
+    "start": "node cherrydlas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CerisWhite/CherryDLAS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CerisWhite/CherryDLAS/issues"
+  },
+  "homepage": "https://github.com/CerisWhite/CherryDLAS#readme"
+}
